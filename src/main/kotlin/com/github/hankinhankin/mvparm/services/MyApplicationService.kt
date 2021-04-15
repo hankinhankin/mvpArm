@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hankinhankin.mvparm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hankinhankin.mvparm.MyBundle
 
 class MyApplicationService {
 
